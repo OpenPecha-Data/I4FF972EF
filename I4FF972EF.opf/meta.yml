@@ -1,0 +1,16 @@
+id: I4FF972EF
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:16:34.073340
+last_modified: 2023-02-08 16:16:34.073439
+source_metadata:
+  title: 'Schøyen Collection: Brāhmī, published'
+  language: sa
+bases:
+  983B:
+    base_file: 983B.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
